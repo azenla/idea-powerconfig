@@ -11,10 +11,13 @@
   elementTypeHolderClass="jpower.idea.config.psi.ConfigTypes"
   elementTypeClass="jpower.idea.config.psi.ConfigElementType"
   tokenTypeClass="jpower.idea.config.psi.ConfigTokenType"
+  psiImplUtilClass="jpower.idea.config.psi.impl.ConfigPsiImplUtil"
 }
 
 simpleFile ::= item_*
 
 private item_ ::= (property|COMMENT|CRLF)
 
-property ::= (KEY? SEPARATOR VALUE?) | KEY
+
+property ::= (KEY? SEPARATOR VALUE?) | KEY {mixin="jpower.idea.config.psi.impl.ConfigNamedElementImpl"
+  implements="jpower.idea.config.psi.ConfigNamedElement" methods=[getKey getValue getName setName getNameIdentifier getPresentation]}

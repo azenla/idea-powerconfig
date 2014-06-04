@@ -8,6 +8,10 @@ import org.jetbrains.annotations.NotNull;
 public class ConfigVisitor extends PsiElementVisitor {
 
     public void visitProperty(@NotNull ConfigProperty o) {
+        visitNamedElement(o);
+    }
+
+    public void visitNamedElement(@NotNull ConfigNamedElement o) {
         visitPsiElement(o);
     }
 

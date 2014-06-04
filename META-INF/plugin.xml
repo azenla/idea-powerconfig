@@ -22,6 +22,11 @@
         <lang.parserDefinition language="PowerConfig" implementationClass="jpower.idea.config.ConfigParserDefinition"/>
         <lang.syntaxHighlighterFactory key="PowerConfig" implementationClass="jpower.idea.config.ConfigSyntaxHighlighterFactory"/>
         <colorSettingsPage implementation="jpower.idea.config.ConfigColorSettingsPage"/>
+        <gotoSymbolContributor implementation="jpower.idea.config.ConfigChooseByNameContributor"/>
+        <lang.psiStructureViewFactory language="PowerConfig" implementationClass="jpower.idea.config.ConfigStructureViewFactory"/>
+        <lang.formatter language="PowerConfig" implementationClass="jpower.idea.config.ConfigFormattingModelBuilder"/>
+        <codeStyleSettingsProvider implementation="jpower.idea.config.ConfigCodeStyleSettingsProvider"/>
+        <lang.commenter language="PowerConfig" implementationClass="jpower.idea.config.ConfigCommenter"/>
     </extensions>
 
     <application-components>
