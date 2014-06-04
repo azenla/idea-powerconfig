@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54238fb4-8132-4123-a66e-674f3f97669d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JPowerConfig.iml" afterPath="$PROJECT_DIR$/JPowerConfig.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JPowerConfig.iws" />
@@ -88,12 +87,12 @@
     <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
     <contextFilterSpec />
     <instrumentTests>true</instrumentTests>
-    <span>0</span>
+    <span>0 days</span>
     <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
     <showSummaryInToolbar>true</showSummaryInToolbar>
     <filteredStripe>-12566464</filteredStripe>
     <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
-    <enabled>true</enabled>
+    <enabled>false</enabled>
     <showSummaryInToolwindow>true</showSummaryInToolwindow>
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -107,7 +106,18 @@
     <favorites_list name="JPowerConfig" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="JPowerConfig.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JPowerConfig.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="708">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -168,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" />
+        <option value="$PROJECT_DIR$/JPowerConfig.iml" />
       </list>
     </option>
   </component>
@@ -264,6 +275,10 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="com.cenqua.clover.idea.ProjectPlugin" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -431,7 +446,13 @@
       <option name="project" value="LOCAL" />
       <updated>1401852371728</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Use Java 8 for now">
+      <created>1401905573453</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1401905573453</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,6 +462,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -463,7 +485,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -488,7 +509,8 @@
     <MESSAGE value="Add README" />
     <MESSAGE value="Add Artifact for Plugin" />
     <MESSAGE value="Clean Up Code, and get rid of useless declarations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean Up Code, and get rid of useless declarations" />
+    <MESSAGE value="Use Java 8 for now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use Java 8 for now" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -499,13 +521,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="708">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigFileTypeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
@@ -860,6 +875,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1943662" vertical-offset="72" max-vertical-offset="885">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JPowerConfig.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="708">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
