@@ -26,14 +26,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54238fb4-8132-4123-a66e-674f3f97669d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/jpower/idea/config/ConfigParser.java" afterPath="$PROJECT_DIR$/gen/jpower/idea/config/ConfigParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigProperty.java" afterPath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigProperty.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/jpower/idea/config/psi/impl/ConfigPropertyImpl.java" afterPath="$PROJECT_DIR$/gen/jpower/idea/config/psi/impl/ConfigPropertyImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigTypes.java" afterPath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigTypes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigVisitor.java" afterPath="$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigVisitor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/PowerConfig.bnf" afterPath="$PROJECT_DIR$/src/jpower/idea/config/PowerConfig.bnf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigChooseByNameContributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigCodeStyleSettings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigCodeStyleSettingsProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigCommenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigElementFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguageCodeStyleSettingsProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigNamedElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/psi/impl/ConfigNamedElementImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/psi/impl/ConfigPsiImplUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReferenceContributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigUtil.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JPowerConfig.iws" />
@@ -407,13 +417,20 @@
       <option name="number" value="Default" />
       <updated>1401844656480</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added all the things!">
+      <created>1401851239324</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1401851239325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="874" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -422,13 +439,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CodeNarc" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,6 +473,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Added all the things!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all the things!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
