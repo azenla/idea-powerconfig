@@ -67,6 +67,9 @@ public class ConfigPsiImplUtil {
             @Nullable
             @Override
             public String getLocationString() {
+                if (element.getParent() == null) {
+                    return "unknown";
+                }
                 return element.getContainingFile().getName();
             }
 

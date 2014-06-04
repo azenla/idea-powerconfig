@@ -65,6 +65,9 @@ public class ConfigStructureViewElement implements StructureViewTreeElement, Sor
     public TreeElement[] getChildren() {
         if (element instanceof ConfigFile) {
             ConfigProperty[] properties = PsiTreeUtil.getChildrenOfType(element, ConfigProperty.class);
+            if (properties == null) {
+                return EMPTY_ARRAY;
+            }
             List<TreeElement> treeElements = new ArrayList<TreeElement>(properties.length);
             for (ConfigProperty property : properties) {
                 treeElements.add(new ConfigStructureViewElement(property));
