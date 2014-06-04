@@ -1,0 +1,20 @@
+{
+  parserClass="jpower.idea.config.ConfigParser"
+
+  extends="com.intellij.extapi.psi.ASTWrapperPsiElement"
+
+  psiClassPrefix="Config"
+  psiImplClassSuffix="Impl"
+  psiPackage="jpower.idea.config.psi"
+  psiImplPackage="jpower.idea.config.psi.impl"
+
+  elementTypeHolderClass="jpower.idea.config.psi.ConfigTypes"
+  elementTypeClass="jpower.idea.config.psi.ConfigElementType"
+  tokenTypeClass="jpower.idea.config.psi.ConfigTokenType"
+}
+
+simpleFile ::= item_*
+
+private item_ ::= (property|COMMENT|CRLF)
+
+property ::= (KEY? SEPARATOR VALUE?) | KEY

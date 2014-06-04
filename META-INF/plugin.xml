@@ -1,0 +1,33 @@
+<idea-plugin version="2">
+    <id>jpower.idea.config</id>
+    <name>JPower Configuration Support</name>
+    <version>1.0</version>
+    <vendor email="kaendfinger@gmail.com" url="http://directmyfile.github.io/">DirectCode</vendor>
+
+    <description><![CDATA[
+      Support for the [JPower Configuration Language](https://github.com/DirectMyFile/JPower/wiki/Configuration-System)
+    ]]></description>
+
+    <change-notes><![CDATA[
+      Initial Implementation
+    ]]>
+    </change-notes>
+
+    <idea-version since-build="131"/>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <lang.parserDefinition language="PowerConfig" implementationClass="jpower.idea.config.ConfigParserDefinition"/>
+    </extensions>
+
+    <application-components>
+    </application-components>
+
+    <project-components>
+    </project-components>
+
+    <actions>
+    </actions>
+
+</idea-plugin>
