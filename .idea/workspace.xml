@@ -26,18 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54238fb4-8132-4123-a66e-674f3f97669d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" afterPath="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JPowerConfig.iml" afterPath="$PROJECT_DIR$/JPowerConfig.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JPowerConfig.iws" />
@@ -49,6 +39,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <manualInitString null="true" />
+    <showTooltips>true</showTooltips>
+    <failedCoveredHighlight>-3920</failedCoveredHighlight>
+    <periodicRefresh>false</periodicRefresh>
+    <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">ALL</instrumentLambda>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <coveredHighlight>-3605816</coveredHighlight>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <includes null="true" />
+    <excludes null="true" />
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <flushPolicy>0</flushPolicy>
+    <filteredHighlight>-4144960</filteredHighlight>
+    <outOfDateHighlight>-32</outOfDateHighlight>
+    <showInline>true</showInline>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <hideFullyCovered>false</hideFullyCovered>
+    <autoRefresh>true</autoRefresh>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <coveredStripe>-16711936</coveredStripe>
+    <highlightCovered>true</highlightCovered>
+    <viewCoverage>true</viewCoverage>
+    <notCoveredHighlight>-341816</notCoveredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <showGutter>true</showGutter>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <autoScroll>true</autoScroll>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <generatedInitString>$PROJECT_DIR$/.clover/coverage.db</generatedInitString>
+    <regexpContexts class="java.util.ArrayList" />
+    <flushInterval>5000</flushInterval>
+    <flattenPackages>false</flattenPackages>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <loadPerTestData>true</loadPerTestData>
+    <showErrorMarks>true</showErrorMarks>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <contextFilterSpec />
+    <instrumentTests>true</instrumentTests>
+    <span>0</span>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <filteredStripe>-12566464</filteredStripe>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <enabled>true</enabled>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -60,116 +107,7 @@
     <favorites_list name="JPowerConfig" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ConfigBlock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="885">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#819#826#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigReference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="960">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1079#1094#0" expanded="true" />
-                <element signature="e#1756#1771#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigStructureViewElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1230">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2249#2262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigLexerAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigParserDefinition.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.212828" vertical-offset="229" max-vertical-offset="915">
-              <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigFormattingModelBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigLexer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="8130">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigSyntaxHighlighter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextAttributesKey.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/openapi/editor/colors/TextAttributesKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1422" max-vertical-offset="2325">
-              <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -234,10 +172,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="-1" />
-    <option name="width" value="1444" />
-    <option name="height" value="877" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -284,7 +220,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,66 +236,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="psi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JPowerConfig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,7 +261,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -420,6 +302,9 @@
     <configuration default="true" type="AntRunConfigurationType" factoryName="Ant build" debug-port="25000" max-memory="256" logging-level="0">
       <method />
     </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="externalProjectPath" />
@@ -452,6 +337,9 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -547,35 +435,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-1" width="1444" height="877" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="874" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CodeNarc" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -613,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="708">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,12 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06355932" vertical-offset="0" max-vertical-offset="708">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14830509" vertical-offset="0" max-vertical-offset="708">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16094421" vertical-offset="0" max-vertical-offset="466">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80686694" vertical-offset="59" max-vertical-offset="795">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,9 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9334764" vertical-offset="0" max-vertical-offset="525">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="444">
           <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,11 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,11 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25751072" vertical-offset="0" max-vertical-offset="480">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#517#1224#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06437768" vertical-offset="0" max-vertical-offset="466">
           <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,16 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0472973" vertical-offset="126" max-vertical-offset="570">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#945#946#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,13 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.4527028" vertical-offset="0" max-vertical-offset="795">
           <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4256757" vertical-offset="306" max-vertical-offset="930">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,11 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8648649" vertical-offset="126" max-vertical-offset="645">
           <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,10 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73390555" vertical-offset="63" max-vertical-offset="585">
           <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#625#633#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,11 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22532189" vertical-offset="0" max-vertical-offset="466">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -848,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6822034" vertical-offset="537" max-vertical-offset="1245">
           <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0659824" vertical-offset="0" max-vertical-offset="682">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
@@ -869,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3855">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.720339" vertical-offset="0" max-vertical-offset="708">
           <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,9 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5084746" vertical-offset="0" max-vertical-offset="708">
           <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,11 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44915253" vertical-offset="87" max-vertical-offset="975">
           <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1715#1731#0" expanded="true" />
-            <element signature="e#1875#1891#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2542373" vertical-offset="0" max-vertical-offset="708">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48728815" vertical-offset="0" max-vertical-offset="3825">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,7 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.084745765" vertical-offset="0" max-vertical-offset="708">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -949,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23305085" vertical-offset="0" max-vertical-offset="708">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -959,9 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14830509" vertical-offset="0" max-vertical-offset="708">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,7 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25329816" vertical-offset="174" max-vertical-offset="825">
           <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,9 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -987,18 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5969388" vertical-offset="36" max-vertical-offset="450">
           <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="8130">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,15 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23940149" vertical-offset="24" max-vertical-offset="525">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/openapi/editor/colors/TextAttributesKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1422" max-vertical-offset="2325">
-          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3112245" vertical-offset="163" max-vertical-offset="555">
           <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,10 +803,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34438777" vertical-offset="0" max-vertical-offset="525">
           <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#256#1" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24563953" vertical-offset="206" max-vertical-offset="915">
+          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15261628" vertical-offset="0" max-vertical-offset="688">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18895349" vertical-offset="155" max-vertical-offset="1230">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44366196" vertical-offset="0" max-vertical-offset="960">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1943662" vertical-offset="72" max-vertical-offset="8130">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1041,63 +845,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
           <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/openapi/editor/colors/TextAttributesKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.03521127" vertical-offset="1615" max-vertical-offset="2325">
+          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="885">
+        <state vertical-scroll-proportion="0.1943662" vertical-offset="72" max-vertical-offset="885">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#819#826#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="960">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1079#1094#0" expanded="true" />
-            <element signature="e#1756#1771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1230">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2249#2262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.212828" vertical-offset="229" max-vertical-offset="915">
-          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
