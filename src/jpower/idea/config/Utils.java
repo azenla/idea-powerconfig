@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 public class Utils {
-    public static String getResourceAsString(String path) throws IOException {
+    public static String getResourceAsString(@SuppressWarnings("SameParameterValue") String path) throws IOException {
         InputStream stream = Utils.class.getClassLoader().getResourceAsStream(path);
 
         if (stream == null) {

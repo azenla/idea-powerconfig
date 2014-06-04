@@ -23,7 +23,7 @@ public class ConfigParserDefinition implements ParserDefinition {
     public static final TokenSet WHITE_SPACES = TokenSet.create(TokenType.WHITE_SPACE);
     public static final TokenSet COMMENTS = TokenSet.create(ConfigTypes.COMMENT);
 
-    public static final IFileElementType FILE = new IFileElementType(Language.<ConfigLanguage>findInstance(ConfigLanguage.class));
+    public static final IFileElementType FILE = new IFileElementType(Language.findInstance(ConfigLanguage.class));
 
     @NotNull
     @Override

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConfigBlock extends AbstractBlock {
-    private SpacingBuilder spacingBuilder;
+    private final SpacingBuilder spacingBuilder;
 
     protected ConfigBlock(@NotNull ASTNode node, @Nullable Wrap wrap, @Nullable Alignment alignment,
                           SpacingBuilder spacingBuilder) {

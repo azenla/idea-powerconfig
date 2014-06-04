@@ -20,7 +20,7 @@ public class ConfigFormattingModelBuilder implements FormattingModelBuilder {
     }
 
     private static SpacingBuilder createSpaceBuilder(CodeStyleSettings settings) {
-        return new SpacingBuilder(settings).
+        return new SpacingBuilder(settings, ConfigLanguage.INSTANCE).
                 around(ConfigTypes.SEPARATOR).spaceIf(settings.SPACE_AROUND_ASSIGNMENT_OPERATORS).
                 before(ConfigTypes.PROPERTY).none();
     }

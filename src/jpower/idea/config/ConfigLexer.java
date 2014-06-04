@@ -14,6 +14,7 @@ import jpower.idea.config.psi.ConfigTypes;
  * on 6/3/14 10:11 PM from the specification file
  * <tt>/home/kaendfinger/DMF/IDEA/JPowerConfig/src/jpower/idea/config/PowerConfig.flex</tt>
  */
+@SuppressWarnings("ALL")
 class ConfigLexer implements FlexLexer {
     /**
      * initial size of the lookahead buffer

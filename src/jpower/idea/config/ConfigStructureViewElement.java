@@ -17,7 +17,7 @@ import java.util.List;
 
 @SuppressWarnings("ConstantConditions")
 public class ConfigStructureViewElement implements StructureViewTreeElement, SortableTreeElement {
-    private PsiElement element;
+    private final PsiElement element;
 
     public ConfigStructureViewElement(PsiElement element) {
         this.element = element;

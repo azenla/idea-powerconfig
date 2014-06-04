@@ -26,9 +26,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54238fb4-8132-4123-a66e-674f3f97669d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" afterPath="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" afterPath="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JPowerConfig.iws" />
@@ -51,7 +60,116 @@
     <favorites_list name="JPowerConfig" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ConfigBlock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="885">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#819#826#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigReference.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="960">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1079#1094#0" expanded="true" />
+                <element signature="e#1756#1771#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigStructureViewElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1230">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2249#2262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigLexerAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigParserDefinition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.212828" vertical-offset="229" max-vertical-offset="915">
+              <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigFormattingModelBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigLexer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="8130">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigSyntaxHighlighter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextAttributesKey.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/openapi/editor/colors/TextAttributesKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1422" max-vertical-offset="2325">
+              <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -81,37 +199,37 @@
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigFileTypeFactory.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigFileType.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigFile.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" />
         <option value="$PROJECT_DIR$/gen/jpower/idea/config/ConfigParser.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighterFactory.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguage.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/PowerConfig.flex" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigColorSettingsPage.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigNamedElement.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/psi/impl/ConfigNamedElementImpl.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigUtil.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigElementFactory.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigReferenceContributor.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigChooseByNameContributor.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewModel.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/PowerConfig.bnf" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigCodeStyleSettings.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigCodeStyleSettingsProvider.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguageCodeStyleSettingsProvider.java" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigCommenter.java" />
         <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/jpower/idea/config/psi/impl/ConfigPsiImplUtil.java" />
-        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/demo.cfg" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/Utils.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java" />
+        <option value="$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java" />
       </list>
     </option>
   </component>
@@ -120,6 +238,25 @@
     <option name="y" value="-1" />
     <option name="width" value="1444" />
     <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnusedDeclaration</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -176,6 +313,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPowerConfig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPowerConfig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPowerConfig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPowerConfig" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -193,7 +370,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF/plugin.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
@@ -202,8 +379,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -360,7 +537,13 @@
       <option name="project" value="LOCAL" />
       <updated>1401852264284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Artifact for Plugin">
+      <created>1401852371728</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1401852371728</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,6 +559,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CodeNarc" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -384,15 +568,14 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -413,7 +596,9 @@
     <MESSAGE value="Added all the things!" />
     <MESSAGE value="Fix Null Issues" />
     <MESSAGE value="Add README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README" />
+    <MESSAGE value="Add Artifact for Plugin" />
+    <MESSAGE value="Clean Up Code, and get rid of useless declarations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean Up Code, and get rid of useless declarations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -424,70 +609,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigTokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="255">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/PowerConfig.bnf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.105932206" vertical-offset="0" max-vertical-offset="708">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigTokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23305085" vertical-offset="0" max-vertical-offset="708">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gen/jpower/idea/config/psi/ConfigTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="708">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigIcons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.084745765" vertical-offset="0" max-vertical-offset="708">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -495,6 +621,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -509,20 +638,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06355932" vertical-offset="0" max-vertical-offset="708">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12711865" vertical-offset="0" max-vertical-offset="708">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="3499" max-vertical-offset="8115">
-          <caret line="253" column="8" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,6 +658,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14830509" vertical-offset="0" max-vertical-offset="708">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -551,6 +673,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16094421" vertical-offset="0" max-vertical-offset="466">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -558,41 +681,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80686694" vertical-offset="59" max-vertical-offset="795">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.28755364" vertical-offset="449" max-vertical-offset="915">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09656652" vertical-offset="0" max-vertical-offset="466">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="945">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5508475" vertical-offset="0" max-vertical-offset="708">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/demo.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,6 +689,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9334764" vertical-offset="0" max-vertical-offset="525">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -614,6 +706,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="444">
           <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -621,13 +716,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="960">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -635,13 +728,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25751072" vertical-offset="0" max-vertical-offset="480">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.030042918" vertical-offset="419" max-vertical-offset="975">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#517#1224#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -649,6 +740,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06437768" vertical-offset="0" max-vertical-offset="466">
           <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -663,34 +755,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0472973" vertical-offset="126" max-vertical-offset="570">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32188842" vertical-offset="0" max-vertical-offset="466">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.44849786" vertical-offset="464" max-vertical-offset="930">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/formatting/SpacingBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33178654" vertical-offset="52" max-vertical-offset="1740">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="585">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -698,6 +772,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.4527028" vertical-offset="0" max-vertical-offset="795">
           <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -705,6 +786,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.777027" vertical-offset="0" max-vertical-offset="444">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#499#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -712,6 +796,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4256757" vertical-offset="306" max-vertical-offset="930">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -719,6 +806,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8648649" vertical-offset="126" max-vertical-offset="645">
           <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -726,6 +818,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73390555" vertical-offset="63" max-vertical-offset="585">
           <caret line="27" column="122" selection-start-line="27" selection-start-column="122" selection-end-line="27" selection-end-column="122" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#625#633#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -733,21 +829,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22532189" vertical-offset="0" max-vertical-offset="466">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigCommenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0622318" vertical-offset="0" max-vertical-offset="630">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7746781" vertical-offset="119" max-vertical-offset="705">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -758,17 +844,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85169494" vertical-offset="522" max-vertical-offset="1230">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/impl/ConfigPsiImplUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6822034" vertical-offset="537" max-vertical-offset="1245">
           <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -788,6 +870,234 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3855">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.720339" vertical-offset="0" max-vertical-offset="708">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigCommenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5084746" vertical-offset="0" max-vertical-offset="708">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44915253" vertical-offset="87" max-vertical-offset="975">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1715#1731#0" expanded="true" />
+            <element signature="e#1875#1891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/formatting/SpacingBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/demo.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2542373" vertical-offset="0" max-vertical-offset="708">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/lang-api/src/com/intellij/formatting/SpacingBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48728815" vertical-offset="0" max-vertical-offset="3825">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigIcons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084745765" vertical-offset="0" max-vertical-offset="708">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigTokenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23305085" vertical-offset="0" max-vertical-offset="708">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/psi/ConfigElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14830509" vertical-offset="0" max-vertical-offset="708">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/structure-view-api/src/com/intellij/ide/structureView/TreeBasedStructureViewBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25329816" vertical-offset="174" max-vertical-offset="825">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigFormattingModelBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5969388" vertical-offset="36" max-vertical-offset="450">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="8130">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/editor-ui-api/src/com/intellij/openapi/editor/SyntaxHighlighterColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23940149" vertical-offset="24" max-vertical-offset="525">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/openapi/editor/colors/TextAttributesKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1422" max-vertical-offset="2325">
+          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Tools/IntelliJ/snapshot-src.zip!/platform/core-api/src/com/intellij/psi/TokenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3112245" vertical-offset="163" max-vertical-offset="555">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34438777" vertical-offset="0" max-vertical-offset="525">
+          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#256#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="885">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#819#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="960">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1079#1094#0" expanded="true" />
+            <element signature="e#1756#1771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigStructureViewElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1230">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2249#2262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigLexerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jpower/idea/config/ConfigParserDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.212828" vertical-offset="229" max-vertical-offset="915">
+          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -822,7 +1132,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Clover IDEA Plugin</last-edited>
+          <last-edited>JetBrains JFlex</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -834,7 +1144,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>IDEA IC-136.SNAPSHOT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -851,7 +1161,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

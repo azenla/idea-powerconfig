@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConfigReference extends PsiReferenceBase<PsiElement> implements PsiPolyVariantReference {
-    private String key;
+    private final String key;
 
     public ConfigReference(@NotNull PsiElement element, TextRange textRange) {
         super(element, textRange);
