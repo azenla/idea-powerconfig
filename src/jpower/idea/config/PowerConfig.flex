@@ -20,8 +20,8 @@ CRLF= \n|\r|\r\n
 WHITE_SPACE=[\ \t\f]
 FIRST_VALUE_CHARACTER=[^ \n\r\f\\] | "\\"{CRLF} | "\\".
 VALUE_CHARACTER=[^\n\r\f\\] | "\\"{CRLF} | "\\".
-END_OF_LINE_COMMENT=("#"|"!")[^\r\n]*
-SEPARATOR=[:\:]
+END_OF_LINE_COMMENT=("#")[^\r\n]*
+SEPARATOR=[:\:\ ]
 KEY_CHARACTER=[^:=\ \n\r\t\f\\] | "\\"{CRLF} | "\\".
 
 %state WAITING_VALUE

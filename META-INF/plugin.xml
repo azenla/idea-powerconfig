@@ -18,7 +18,10 @@
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <fileTypeFactory implementation="jpower.idea.config.ConfigFileTypeFactory"/>
         <lang.parserDefinition language="PowerConfig" implementationClass="jpower.idea.config.ConfigParserDefinition"/>
+        <lang.syntaxHighlighterFactory key="PowerConfig" implementationClass="jpower.idea.config.ConfigSyntaxHighlighterFactory"/>
+        <colorSettingsPage implementation="jpower.idea.config.ConfigColorSettingsPage"/>
     </extensions>
 
     <application-components>
